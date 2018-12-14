@@ -1,0 +1,65 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Kemendes",
+      "publisher": "Menteri Desa, PDT, dan Trans",
+      "tray_image_file": "tray_Cuppy.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+       
+       
+        {
+          "image_file": "halo_semuanya_512px.webp",
+          "emojis": ["😆","😂"]
+        },
+      
+       
+        {
+          "image_file": "GREAT512.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "halo_semuanya_512px.webp",
+          "emojis": ["😆","😂"]
+        },
+      
+        {
+          "image_file": "oke_512px.webp",
+          "emojis": ["😍","♥"]
+        },
+       
+        {
+          "image_file": "semangat_512px.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "siap_512px.webp",
+          "emojis": ["😘","🍪"]
+        },
+        
+      
+        {
+          "image_file": "slamatpagi_512px.webp",
+          "emojis": ["🎉","✨"]
+        },
+        
+        {
+          "image_file": "trimakasih_512px.webp",
+          "emojis": ["🖐","🙋"]
+        },
+
+        {
+          "image_file": "mantap.webp",
+          "emojis": ["🌈","😜"]
+        }
+        
+      ]
+    }
+  ]
+}
